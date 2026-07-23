@@ -1,0 +1,22 @@
+:root {
+    --fuente: font-family: 'Nunito', sans-serif;
+    --background: #fefffc;
+    --background-cards: #8E9BAF;
+    --background-cards-: #8E9BAF;
+    --background-button: #2A374F;
+    --background-button-hover: #4192D9;
+    --letter-white: #fefffc;
+    --letter-black: black;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-color: var(--background);
+    font-family: "nunito", Arial, Helvetica, sans-serif;
+}
