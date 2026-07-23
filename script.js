@@ -29,7 +29,7 @@ function mostrarTodas() {
   const cards = document.querySelectorAll(".card");
 
   cards.forEach((card) => {
-    card.style.display = "flex"; // Restablece la visibilidad de todas
+    card.style.display = "flex"; 
   });
 }
 
